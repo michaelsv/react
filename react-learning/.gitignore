@@ -1,0 +1,21 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+/react-css-project/node-modules
+/react-css-project/.eslintcache
+/react-css-project/package.json
+/react-css-project/package-lock.json
+
+/react-debugging/node_modules
+/react-debugging/package.json
+/react-debugging/package-lock.json
+
+/react-practice-1/node_modules
+/react-practice-1/.idea
+/react-practice-1/package.json
+/react-practice-1/package-lock.json
+
+/use-reducer/node_modules
+/use-reducer/package.json
+/use-reducer/package-lock.json
+/use-reducer/.eslintcache
+
+
